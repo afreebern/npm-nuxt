@@ -1,0 +1,26 @@
+{
+  "name": "npm-for-nuxt-2",
+  "version": "1.0.0",
+  "description": "npm for nuxt attempt 2",
+  "main": "nuxt.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "peerDependencies": {
+"nuxt3": "latest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/afreebern/npm-nuxt.git"
+  },
+  "keywords": [
+    "nuxt3",
+    "npm"
+  ],
+  "author": "afreebern",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/afreebern/npm-nuxt/issues"
+  },
+  "homepage": "https://github.com/afreebern/npm-nuxt#readme"
+}
